@@ -1,1 +1,1 @@
-Projektet kommer sikta på en förbättring för webbsidan http://stenungsundsbi.se
+Detta är ett projekt där vi försöker göra en snyggare webbsida för http://stenungsundsbi.se
